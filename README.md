@@ -1,2 +1,2 @@
-# Algorium
-Code Repository
+# 0Mean1Sigma
+Animation Code Repository
